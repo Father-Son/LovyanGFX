@@ -1164,6 +1164,8 @@ label_nextbyte: /// 次のデータを取得する;
     #include "../Fonts/Custom/DejaVu40.h"
     #include "../Fonts/Custom/DejaVu56.h"
     #include "../Fonts/Custom/DejaVu72.h"
+    #include "../Fonts/Custom/SevenSegment9pt7b.h"
+    #include "../Fonts/Custom/SevenSegment24pt7b.h"
 
     #include "../Fonts/glcdfont.h"
     #include "../Fonts/Font16.h"

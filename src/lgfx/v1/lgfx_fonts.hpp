@@ -325,6 +325,8 @@ namespace lgfx
     extern const lgfx::GFXfont FreeSerifBoldItalic12pt7b;
     extern const lgfx::GFXfont FreeSerifBoldItalic18pt7b;
     extern const lgfx::GFXfont FreeSerifBoldItalic24pt7b;
+    extern const lgfx::GFXfont SevenSegment24pt7b;
+    extern const lgfx::GFXfont SevenSegment9pt7b;
 
     extern const lgfx::GFXfont Orbitron_Light_24;
     extern const lgfx::GFXfont Orbitron_Light_32;
